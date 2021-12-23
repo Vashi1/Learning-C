@@ -9,7 +9,7 @@ int factorial(int a){
         return value;
         }
     else if (a == 0){
-        return 0;
+        return value;
     }
     }
 
