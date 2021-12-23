@@ -11,7 +11,7 @@ int main(){
         break;
     
     default:
-        printf("The age is %d", &age);
+        printf("The age is %d", age);
         break;
     }
     return 0;
