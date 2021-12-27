@@ -3,7 +3,7 @@
 #include <stdio.h>
 void star_pattern();
 void reversed_star_pattern();
-int main()
+int main() 
 {
     int var,n;
     printf("Whether to print star pattern(0) or reversed star pattern(1): \n");	
